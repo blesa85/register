@@ -1,0 +1,11 @@
+{
+  "description": "Documentation website for is-a.dev",
+  "repo": "https://github.com/is-a-dev/docs",
+  "owner": {
+    "username": "fblesa",
+    "email": "fernandoblesagarcia@gmail.com"
+  },
+  "record": {
+    "CNAME": "fblesa.is-a.dev"
+  }
+}
